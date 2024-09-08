@@ -1,14 +1,15 @@
 field,display_name,browse_link,external_link
 title,Título,
+pelicula,Película,
 creator,Dirección,
 date,Fecha de estreno,
 description,Descripción,
 subject,Zonas y localidades,true
-location,Ciudades
+location,Ciudad,
 latitude,Latitude
 longitude,Longitude
-source,Género
 identifier,Dirección de lugar,,
+source,Género,
 pelicula,Película,
 produccion,Producción,
 foto,Dirección de fotografía,
