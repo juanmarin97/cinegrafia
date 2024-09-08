@@ -8,7 +8,14 @@ location,Ciudades
 latitude,Latitude
 longitude,Longitude
 source,Género
-identifier,Dirección,,
+identifier,Dirección de lugar,,
+pelicula,Película,
+produccion,Producción,
+foto,Dirección de fotografía,
+arte,Dirección de Arte,
+sonido, Encargado de Sonido,
+color, Color,
+Duracion, Duración en minutos,
 type,Tipo de archivo,
 format,Formato,
 rights,Rights,
