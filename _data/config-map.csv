@@ -1,5 +1,5 @@
 field,display_name,search
-date,Date,true
-creator,Creator,true
-subject,Subjects,true
-location,Location,true
+date,fecha de estreno,true
+creator,director,true
+subject,zona,true
+location,ciudad,true
