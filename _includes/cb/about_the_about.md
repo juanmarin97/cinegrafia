@@ -29,6 +29,17 @@ Jorge Rojas, Músico y productor musical;
 Jonathan Hurtado, Politólogo y Magíster en Humanidades digitales;
 Miguel Moyano, Artista y diseñador digital. 
 
+## Tutorial
+
+Para iniciar la navegación por las locaciones del cine colombiano, usted podrá tomar tres caminos, cada uno corresponde a una pestaña del sitio web: Explora las locaciones, Zonas y localidades o Mapa. 
+
+Las 3 opciones están pensadas para que comprenda la colección en su profundidad. Primero, debe saber que cada locación tiene un título, una descripción, una casilla que nos dice a qué película corresponde, el género cinematográfico, si la película es a color o en grises y su año de estreno; quien se encargó de dirigir y producir el filme y las direcciones de fotografía, arte y sonido. Así mismo, encontrará la sinopsis, la dirección, ciudad, zona, localidad y coordenadas correspondientes con la locación. También podrá encontrar el tipo y el formato del archivo. 
+
+Ahora, hablemos sobre la pestaña Explora las locaciones. En esta podrá encontrar la totalidad de la colección y buscar por orden aleatorio, título (de la locación) o película. Por ejemplo, puede escribir el nombre de una película y verá todas las escenas que hacen parte de ella. Si decide filtrar por título, puede intentar probar suerte y poner una palabra que crea que puede aparecer en la búsqueda. Como sugerencia le recomiendo buscar las palabras “amigos” o “amor”. Verá que, buscando por orden aleatorio, la búsqueda se hará por cualquier casilla de las que fueron descritas en el párrafo anterior. Usted puede seleccionar cualquier locación haciendo click en su foto correspondiente y encontrará sus metadatos completos. 
+
+Por otro lado, bajo la pestaña “Zonas y localidades”, usted encontrará una nube de palabras. Entre más grande sea la palabra significa que más locaciones corresponden a esa localidad. Al hacer click sobre una palabra, verá reflejada como resultado una lista de las locaciones que se relacionan con la zona o localidad. 
+
+Por último, la recomendación es que explore la pestaña de Mapa. En este mapa usted verá puntos sobre la ciudad de Bogotá, cada punto representa una locación y en dónde está ubicado corresponde a su área geográfica. Al seleccionar el punto verá una previsualización con foto y algunos datos de la locación; al hacer click en esa foto verá todos los datos de la locación que seleccionó. 
 
 We want to make engaging interpretive pages easier to create, so CollectionBuilder gives you tools to write *with* your collection content!
 
