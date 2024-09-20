@@ -7,7 +7,28 @@
 {% assign audiosample = site.data[site.metadata] | where_exp: 'item','item.format contains "audio"' | first %}
 {% capture audiosampleid %}{{audiosample.objectid | default: "https://www.lib.uidaho.edu/digital/mp3s/Clouds.mp3"}}{% endcapture %}
 
-## About the About Page
+## ¿Qué es Bicinefilos? 
+
+Bogotá ha sido el epicentro y locación de películas icónicas como La estrategia del Caracol o La gente de La Universal, sin embargo, es poco lo que se conoce sobre los lugares donde se han filmado y el valor histórico y arquitectónico que tienen. Bicinefilos es un mapa interactivo que destaca las locaciones icónicas de películas colombianas filmadas en Bogotá. Con esta cartografía buscamos mapear estos lugares que han quedado registrados en la pantalla, y reafirmar su importancia dentro de nuestro patrimonio cinematográfico.
+
+Este proyecto busca desarrollar nuevas formas de interacción entre el público y el cine colombiano al incorporar las películas en la cotidianidad de los espectadores. Además, pretende abrir el diálogo a nuevos significados de los lugares emblemáticos de Bogotá como la Plaza de Bolívar que han sido retratados en la pantalla y cargados narrativamente. Estas interacciones con el público posibilitan una activación de las películas a través de un ejercicio del derecho a la ciudad y el fortalecimiento de las relaciones entre la ciudadanía y el espacio público.
+ 
+Esta investigación, al contrastar el registro fílmico con el estado actual de estos espacios, permite evidenciar las transformaciones arquitectónicas y los procesos de renovación urbanización que ha presenciado Bogotá a lo largo de su historia.
+
+## Tercer cine
+
+Bicinéfilos es desarrollado por Tercer Cine, que es una plataforma creativa enfocada en la investigación y difusión del cine colombiano. Esta plataforma se especializa en generar reflexiones sobre las representaciones y la importancia histórica y social de dicho cine. Por tanto, Bicinéfilos es uno de estos proyectos investigativos que se enfoca en reconocer las trasformaciones del espacio público a través del patrimonio cinematográfico. Así, el cine y el reconocimiento de las locaciones donde se grabaron sus icónicas escenas, se vuelve parte crucial del proceso de apropiación del espacio público por parte de los espectadores. 
+
+Si desea comprender más del trabajo que adelanta este equipo por el cine colombiano, puede consultar: INCLUIR BOTONES CON LINKS
+
+Tercer cine está compuesto por un equipo interdisciplinar tales como:
+
+Laura Arias, Politóloga e investigadora de cine;
+Juliana Santana, Profesional en Cine y comunicación digital;
+Jorge Rojas, Músico y productor musical;
+Jonathan Hurtado, Politólogo y Magíster en Humanidades digitales;
+Miguel Moyano, Artista y diseñador digital. 
+
 
 We want to make engaging interpretive pages easier to create, so CollectionBuilder gives you tools to write *with* your collection content!
 
