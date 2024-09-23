@@ -19,7 +19,9 @@ Esta investigación, al contrastar el registro fílmico con el estado actual de 
 
 Bicinéfilos es desarrollado por Tercer Cine, que es una plataforma creativa enfocada en la investigación y difusión del cine colombiano. Esta plataforma se especializa en generar reflexiones sobre las representaciones y la importancia histórica y social de dicho cine. Por tanto, Bicinéfilos es uno de estos proyectos investigativos que se enfoca en reconocer las trasformaciones del espacio público a través del patrimonio cinematográfico. Así, el cine y el reconocimiento de las locaciones donde se grabaron sus icónicas escenas, se vuelve parte crucial del proceso de apropiación del espacio público por parte de los espectadores. 
 
-Si desea comprender más del trabajo que adelanta este equipo por el cine colombiano, puede consultar: INCLUIR BOTONES CON LINKS
+Si desea comprender más del trabajo que adelanta este equipo por el cine colombiano, puede consultar: 
+
+{% include feature/button.html text="Instagram" link="https://www.instagram.com/tercer_cine/" color="success" %}
 
 Tercer cine está compuesto por un equipo interdisciplinar tales como:
 
