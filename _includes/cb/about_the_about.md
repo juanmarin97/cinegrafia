@@ -22,6 +22,8 @@ Bicinéfilos es desarrollado por Tercer Cine, que es una plataforma creativa enf
 Si desea comprender más del trabajo que adelanta este equipo por el cine colombiano, puede consultar: 
 
 {% include feature/button.html text="Instagram" link="https://www.instagram.com/tercer_cine/" color="success" %}
+{% include feature/button.html text="Página Web" link="https://tercercineco.wordpress.com/" color="success" %}
+{% include feature/button.html text="Youtube" link="https://www.youtube.com/@Tercer_Cine" color="success" %}
 
 Tercer cine está compuesto por un equipo interdisciplinar tales como:
 
