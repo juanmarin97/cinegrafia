@@ -1,9 +1,9 @@
 display_name,stub,dropdown_parent
 Inicio,/
+Mapa,/map.html
 Explora las locaciones,/browse.html
 Zonas y localidades,/subjects.html
 Ciudades,/locations.html
-Mapa,/map.html
 Línea de tiempo,/timeline.html
 Datos,/data.html
 Tutorial,/about.html
