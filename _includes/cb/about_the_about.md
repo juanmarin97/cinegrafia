@@ -44,5 +44,3 @@ Ahora, hablemos sobre la pestaña Explora las locaciones. En esta podrá encontr
 Por otro lado, bajo la pestaña “Zonas y localidades”, usted encontrará una nube de palabras. Entre más grande sea la palabra significa que más locaciones corresponden a esa localidad. Al hacer click sobre una palabra, verá reflejada como resultado una lista de las locaciones que se relacionan con la zona o localidad. 
 
 Por último, la recomendación es que explore la pestaña de Mapa. En este mapa usted verá puntos sobre la ciudad de Bogotá, cada punto representa una locación y en dónde está ubicado corresponde a su área geográfica. Al seleccionar el punto verá una previsualización con foto y algunos datos de la locación; al hacer click en esa foto verá todos los datos de la locación que seleccionó. 
-
-
