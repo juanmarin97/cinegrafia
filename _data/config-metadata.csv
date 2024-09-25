@@ -19,5 +19,3 @@ color, Color,
 Duracion, Duración en minutos,
 type,Tipo de archivo,
 format,Formato,
-rights,Rights,
-rightsstatement,Rights Statement,,true
