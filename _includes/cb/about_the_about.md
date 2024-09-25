@@ -45,14 +45,4 @@ Por otro lado, bajo la pestaña “Zonas y localidades”, usted encontrará una
 
 Por último, la recomendación es que explore la pestaña de Mapa. En este mapa usted verá puntos sobre la ciudad de Bogotá, cada punto representa una locación y en dónde está ubicado corresponde a su área geográfica. Al seleccionar el punto verá una previsualización con foto y algunos datos de la locación; al hacer click en esa foto verá todos los datos de la locación que seleccionó. 
 
-## Acerca de la construcción de la colección
-
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
