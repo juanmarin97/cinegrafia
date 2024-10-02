@@ -3,3 +3,4 @@ date,Año de estreno,,,Date
 creator,Dirección,,,
 subject,,true
 source,,true
+pelicula,Película,true
