@@ -18,7 +18,7 @@ Bogotá ha sido el epicentro y locación de películas icónicas como La estrate
 
 Este proyecto busca desarrollar nuevas formas de interacción entre el público y el cine colombiano al incorporar las películas en la cotidianidad de los espectadores. Además, pretende abrir el diálogo a nuevos significados de los lugares emblemáticos de Bogotá como la Plaza de Bolívar que han sido retratados en la pantalla y cargados narrativamente. Estas interacciones con el público posibilitan una activación de las películas a través de un ejercicio del derecho a la ciudad y el fortalecimiento de las relaciones entre la ciudadanía y el espacio público.
  
-Esta investigación, al contrastar el registro fílmico con el estado actual de estos espacios, permite evidenciar las transformaciones arquitectónicas y los procesos de renovación urbanización que ha presenciado Bogotá a lo largo de su historia.
+Esta investigación, al contrastar el registro fílmico con el estado actual de estos espacios, permite evidenciar las transformaciones arquitectónicas y los procesos de renovación urbanización que ha presenciado Bogotá a lo largo de su historia. Este proyecto es creado por Tercer Cine y es apoyado por el programa de Jóvenes por el Cambio del Ministerio de Cultura de la República de Colombia. 
 
 ## Tercer cine
 
@@ -27,7 +27,7 @@ Cinegrafía es desarrollado por Tercer Cine, que es una plataforma creativa enfo
 Si desea comprender más del trabajo que adelanta este equipo por el cine colombiano, puede consultar: 
 
 {% include feature/button.html text="Instagram" link="https://www.instagram.com/tercer_cine/" color="success" %}
-{% include feature/button.html text="Página Web" link="https://tercercineco.wordpress.com/" color="success" %}
+{% include feature/button.html text="Página Web" link="https://tercercine.co/" color="success" %}
 {% include feature/button.html text="Youtube" link="https://www.youtube.com/@Tercer_Cine" color="success" %}
 
 Tercer cine está compuesto por un equipo interdisciplinar tales como:
