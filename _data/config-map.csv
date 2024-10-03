@@ -1,4 +1,5 @@
 field,display_name,search
+pelicula,Película,true
 date,fecha de estreno,true
 creator,director,true
 subject,zona,true
