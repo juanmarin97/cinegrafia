@@ -21,7 +21,7 @@ function findFileLink(record) {
 function displayItem(record, prev_id, next_id, compound_object) { 
 
     /* add item title */
-    var objectTitle = record.title;
+    var objectTitle = record.pelicula;
     document.getElementById("bc-title").innerHTML = objectTitle;
 
     /* get item format for item title */
@@ -389,9 +389,9 @@ function displayItem(record, prev_id, next_id, compound_object) {
             <a id="next-button" class="next btn btn-lg btn-secondary" href="${forwardUrl}">&raquo;</a>
         </div>`;
     /* add bottom buttons to page */
-    document.getElementById("browse-buttons").innerHTML = `<a id="prev-button" class="btn btn-secondary" href="${backUrl}">&laquo; Previous</a>
-        <a class="btn btn-secondary" href="{{ '/browse.html' | relative_url }}">Back to browse</a>
-        <a id="for-button" class="btn btn-secondary" href="${forwardUrl}">Next &raquo;</a>`;
+    document.getElementById("browse-buttons").innerHTML = `<a id="prev-button" class="btn btn-secondary" href="${backUrl}">&laquo; Anterior</a>
+        <a class="btn btn-secondary" href="{{ '/browse.html' | relative_url }}">Volver a navegar</a>
+        <a id="for-button" class="btn btn-secondary" href="${forwardUrl}">Siguiente &raquo;</a>`;
 
     /* add back forward key functionality for modal arrows */
     function leftModalArrowPressed() {

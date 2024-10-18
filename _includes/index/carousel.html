@@ -69,7 +69,7 @@ E.G --> {% include index/carousel.html title= "Locaciones destacadas" height=450
 <script>
 (function(){
     /* add item data */
-    var carouselItems = [ {% for c in carousel-items %}[ {{ c.title | jsonify }}, {% if c.youtubeid %}"https://img.youtube.com/vi/{{ c.youtubeid }}/hqdefault.jpg"{% elsif c.filename contains '/' %}{{ c.filename | jsonify }}{% else %}{{ '/objects/' | relative_url | append: c.filename | jsonify }}{% endif %}, {% if c.parentid %}"{{ c.parentid }}#{{ c.objectid }}"{% else %}"{{ c.objectid }}"{% endif %} ]{% unless forloop.last %}, {% endunless %}{% endfor %}];
+    var carouselItems = [ {% for c in carousel-items %}[ {{ c.title | jsonify }}, {{ c.pelicula | jsonify }}, {% if c.youtubeid %}"https://img.youtube.com/vi/{{ c.youtubeid }}/hqdefault.jpg"{% elsif c.filename contains '/' %}{{ c.filename | jsonify }}{% else %}{{ '/objects/' | relative_url | append: c.filename | jsonify }}{% endif %}, {% if c.parentid %}"{{ c.parentid }}#{{ c.objectid }}"{% else %}"{{ c.objectid }}"{% endif %} ]{% unless forloop.last %}, {% endunless %}{% endfor %}];
     /* shuffle items */
     carouselItems.sort(function() { return 0.5 - Math.random() });
  
@@ -81,16 +81,16 @@ E.G --> {% include index/carousel.html title= "Locaciones destacadas" height=450
     var i;
     for (i=0; i < {{ carousel-items | size | at_most: carousel-max }}; i++) {
         // calculate item image location
-        itemImg = carouselItems[i][1];
+        itemImg = carouselItems[i][2];
         // calculate item link
-        itemLink = "{{ '/item.html' | relative_url | append: '?id=' }}" + carouselItems[i][2];
+        itemLink = "{{ '/item.html' | relative_url | append: '?id=' }}" + carouselItems[i][3];
         // create indicator 
         indicator = `<button type="button" data-bs-target="#imageCarousel" data-bs-slide-to="${i.toString()}" ${ i == 0 ? 'class="active" aria-current="true" ' : '' }aria-label="Slide ${i.toString()}"></button>`;
         // create slide
         slide = `<div class="carousel-item py-2${ i == 0 ? ' active' : '' }">
             <img class="d-block h-100 mx-auto lazyload" alt="image highlight" data-src="${itemImg}">
             <div class="carousel-caption">
-                <h5 class="carousel-item-title text-white py-2">${carouselItems[i][0]}</h5>
+                <h5 class="carousel-item-title text-white py-2">${carouselItems[i][1]}</h5>
                 <a href="${itemLink}" class="btn btn-sm btn-{{ btn-color }}">{{ btn-text }}</a>
             </div></div>`;
         slides += slide;
